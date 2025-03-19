@@ -43,6 +43,6 @@ Now you should be able to access the web application through [localhost](http://
 	- **Description**: Notifies users about the completion of tasks or changes in state. 
 	 
 ## Contributors
-- **Stefanos Yiannakopoulos**
+- **Stefanos Giannakopoulos**
 - **Konstantinos Pikoulas** 
 -  **Maria Lazou**
